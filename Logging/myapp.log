@@ -1,0 +1,36 @@
+INFO:root:START
+INFO:root:Doing something
+DEBUG:root:Division to be performed
+ERROR:root:Class log_setup | debug () | Exp Desc:
+Traceback (most recent call last):
+  File "/home/stride/PycharmProjects/TrailThings/Logging/log_setup.py", line 12, in debug
+    c = a/b
+ZeroDivisionError: division by zero
+DEBUG:root:Division to be performed
+INFO:root:division performed
+INFO:root:10.0
+INFO:root:END
+INFO:root:START
+INFO:root:Doing something
+DEBUG:root:Division to be performed
+ERROR:root:Class log_setup | debug () | Exp Desc:
+Traceback (most recent call last):
+  File "/home/stride/PycharmProjects/TrailThings/Logging/log_setup.py", line 12, in debug
+    c = a/b
+ZeroDivisionError: division by zero
+DEBUG:root:Division to be performed
+INFO:root:division performed
+INFO:root:10.0
+INFO:root:END
+INFO:root:START
+INFO:root:Doing something
+DEBUG:root:Division to be performed
+ERROR:root:Class log_setup | debug () | Exp Desc:
+Traceback (most recent call last):
+  File "/home/stride/PycharmProjects/TrailThings/Logging/log_setup.py", line 12, in debug
+    c = a/b
+ZeroDivisionError: division by zero
+DEBUG:root:Division to be performed
+INFO:root:division performed
+INFO:root:10.0
+INFO:root:END

@@ -1,0 +1,21 @@
+2018-04-20 19:19:39,459 - Trail - INFO - hello log
+2018-04-20 19:19:39,490 - Trail - INFO - Workbook opened!
+2018-04-20 19:19:39,490 - Trail - INFO - Write Excel perfromed:
+2018-04-20 19:20:28,665 - Trail - INFO - hello log
+2018-04-20 19:20:28,696 - Trail - INFO - Workbook opened!
+2018-04-20 19:20:28,696 - Trail - INFO - {'Write Excel perfromed:': 'Vinodkumar'}
+2018-04-20 19:21:22,147 - Trail - INFO - hello log
+2018-04-20 19:21:22,179 - Trail - INFO - Workbook opened!
+2018-04-20 19:21:22,180 - Trail - INFO - dict_values(['Vinodkumar'])
+2018-04-20 19:22:05,704 - Trail - INFO - hello log
+2018-04-20 19:22:05,736 - Trail - INFO - Workbook opened!
+2018-04-20 19:22:05,736 - Trail - INFO - None
+2018-04-20 19:31:25,306 - Trail - INFO - hello log
+2018-04-20 19:31:25,338 - Trail - INFO - Workbook opened!
+2018-04-20 19:32:14,046 - Trail - INFO - hello log
+2018-04-20 19:32:14,078 - Trail - INFO - Workbook opened!
+2018-04-20 19:32:51,309 - Trail - INFO - hello log
+2018-04-20 19:32:51,339 - Trail - INFO - Workbook opened!
+2018-04-20 19:32:51,340 - Trail - INFO - {'value:': 'Vinodkumar'}
+2018-04-20 19:33:49,160 - Trail - INFO - hello log
+2018-04-20 19:33:49,191 - Trail - INFO - Workbook opened!

@@ -1,0 +1,14 @@
+2018-04-17 17:24:43,970 - simple_example - INFO - do something
+2018-04-17 17:24:43,970 - simple_example - INFO - To perform division
+2018-04-17 17:24:43,970 - simple_example - INFO - 10.0
+2018-04-17 17:24:43,970 - simple_example - INFO - Division performed
+2018-04-17 17:24:43,970 - simple_example - INFO - To perform division
+2018-04-17 17:24:43,970 - simple_example - ERROR - Class log_setup | debug () | Exp Desc:
+2018-04-17 17:24:43,970 - simple_example - ERROR - division by zero
+2018-04-17 17:31:52,422 - simple_example - INFO - do something
+2018-04-17 17:31:52,423 - simple_example - INFO - To perform division
+2018-04-17 17:31:52,423 - simple_example - ERROR - Class log_setup | debug () | Exp Desc:
+2018-04-17 17:31:52,423 - simple_example - ERROR - division by zero
+2018-04-17 17:31:52,423 - simple_example - INFO - To perform division
+2018-04-17 17:31:52,423 - simple_example - INFO - 10.0
+2018-04-17 17:31:52,423 - simple_example - INFO - Division performed
